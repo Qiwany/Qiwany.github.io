@@ -908,7 +908,7 @@ pre .javascript .function {
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: normal;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
@@ -1664,7 +1664,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d7799d;
+  background: #0df5a2;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2249,7 +2249,7 @@ a.search-result {
   overflow: hidden;
 }
 body {
-  background: #f5f7f9;
+  background: #d8e2eb url("/images/bg.jpg") no-repeat top center;
 }
 @media (min-width: 992px) {
   .full-image.full-image.full-image {
@@ -2410,8 +2410,7 @@ body {
 }
 .site-meta {
   padding: 20px 0;
-  color: #fff;
-  background: #222;
+  color: #000;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
@@ -2427,9 +2426,7 @@ body {
   display: block;
   padding: 0;
   background: none;
-}
-.brand:hover {
-  color: #fff;
+  color: #000;
 }
 .site-subtitle {
   margin: 0;
