@@ -180,7 +180,7 @@ th {
   padding: 0;
 }
 ::selection {
-  background: #262a30;
+  background: #1f6ee4;
   color: #fff;
 }
 body {
@@ -497,8 +497,8 @@ pre,
   margin: 20px 0;
   padding: 15px;
   font-size: 13px;
-  color: #4d4d4c;
-  background: #f7f7f7;
+  color: #d2d2c9;
+  background: #272822;
   line-height: 1.6;
 }
 pre,
@@ -508,10 +508,10 @@ code {
 code {
   padding: 2px 4px;
   word-break: break-all;
-  color: #555;
-  background: #eee;
+  color: #e96900;
+  background: #fff;
   border-radius: 4px;
-  font-size: 13px;
+  font-size: 16px;
 }
 pre code {
   padding: 0;
@@ -555,7 +555,7 @@ pre code {
   border-bottom-color: #4d4d4c;
 }
 .highlight .gutter pre {
-  color: #666;
+  color: #696565;
   text-align: right;
   padding-right: 20px;
 }
@@ -894,9 +894,6 @@ pre .javascript .function {
   color: #fff;
   background: #222;
   border-bottom: none;
-}
-.brand:hover {
-  color: #fff;
 }
 .logo {
   display: inline-block;
@@ -1664,7 +1661,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e808ff;
+  background: #ff0014;
 }
 .links-of-blogroll {
   font-size: 13px;
